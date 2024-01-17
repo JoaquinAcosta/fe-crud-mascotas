@@ -26,6 +26,7 @@ td, th {
 }
 
 .add {
+    cursor: pointer;
     line-height: 28px;
     padding: 0 22px;
 }
