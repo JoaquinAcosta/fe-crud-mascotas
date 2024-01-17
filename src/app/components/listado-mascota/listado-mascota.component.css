@@ -25,8 +25,7 @@ td, th {
     cursor: pointer;
 }
 
-.agregar {
-    font-size: 12px;
+.add {
     line-height: 28px;
-    padding: 0 10px;
+    padding: 0 22px;
 }
