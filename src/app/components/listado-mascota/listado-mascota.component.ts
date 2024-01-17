@@ -21,8 +21,8 @@ export class ListadoMascotaComponent implements OnInit, AfterViewInit {
 
   constructor(
     private _snackBar: MatSnackBar, 
-    private _mascotaService:MascotaService
-    ) {}
+    private _mascotaService: MascotaService
+    ) { }
   
   ngOnInit(): void {
     this.obtenerMascotas();
